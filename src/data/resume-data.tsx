@@ -26,9 +26,9 @@ export const RESUME_DATA = {
   location: "Karlsruhe, Germany, CET",
   locationLink: "https://www.google.com/maps/place/Karlsruhe",
   about:
-    "A blockchain researcher and smart contract developer with the focus on cryptocurrency.",
+    "In Crypto We Trust.",
   summary:
-    "I have a strong background in computer science and cryptography, and I am passionate about building decentralized applications and contributing to the open-source community. I am a lifelong learner, and always looking for new challenges and opportunities to grow.",
+    "I am a blockchain researcher and smart contract developer with the focus on cryptocurrency. I have a strong background in computer science and cryptography, and I am passionate about building decentralized applications and contributing to the open-source community. I am a lifelong learner, and always looking for new challenges and opportunities to grow.",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
   personalWebsiteUrl: "https://www.zlog.in/",
   contact: {
