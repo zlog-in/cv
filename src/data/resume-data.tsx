@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "I have a strong background in computer science and cryptography, and I am passionate about building decentralized applications and contributing to the open-source community. I am a lifelong learner, and always looking for new challenges and opportunities to grow.",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
-  personalWebsiteUrl: "www.zlog.in",
+  personalWebsiteUrl: "https://www.zlog.in/",
   contact: {
     email: "im.wenzhan@gmail.com",
     tel: "+491625342038",
