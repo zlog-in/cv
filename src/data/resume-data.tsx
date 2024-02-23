@@ -16,6 +16,7 @@ import {
   ParabolLogo,
   TastyCloudLogo,
   YearProgressLogo,
+  OrderlyLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
@@ -25,7 +26,7 @@ export const RESUME_DATA = {
   location: "Karlsruhe, Germany, CET",
   locationLink: "https://www.google.com/maps/place/Karlsruhe",
   about:
-    "A blockchain researcher and smart contract developer with a focus on cryptocurrency.",
+    "A blockchain researcher and smart contract developer with the focus on cryptocurrency.",
   summary:
     "I have a strong background in computer science and cryptography, and I am passionate about building decentralized applications and contributing to the open-source community. I am a lifelong learner, and always looking for new challenges and opportunities to grow.",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
@@ -77,17 +78,16 @@ export const RESUME_DATA = {
       link: "https://orderly.network/",
       badges: ["Remote"],
       title: "Blockchain Researcher & Smart Contract Developer",
-      logo: ParabolLogo,
+      logo: OrderlyLogo,
       start: "Nov. 2022",
       end: "Present",
-      description: "Focused on the research of EVM tech stack, and the development of smart contracts for DeFi protocols.",    
+      description: "Research on EVM tech stack, and develop smart contracts for DeFi protocols.",    
     },
     {
       company: "Poly Network",
       link: "https://poly.network/",
       badges: ["Onsite", "Remote"],
       title: "Blockchain Research Intern",
-      logo: ClevertechLogo,
       start: "Dez. 2020",
       end: "Dez. 2021",
       description: "Researched the cryptographica fundamentation of cryptocurrenty and the consensus meachnism of PoW and PoS familiy.",
