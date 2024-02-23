@@ -90,7 +90,7 @@ export const RESUME_DATA = {
       title: "Blockchain Research Intern",
       start: "Dez. 2020",
       end: "Dez. 2021",
-      description: "Researched the cryptographica fundamentation of cryptocurrenty and the consensus meachnism of PoW and PoS familiy.",
+      description: "Researched the cryptographic fundamentation of cryptocurrenty and the consensus meachnism of PoW and PoS familiy.",
     },
   ],
   skills: [
