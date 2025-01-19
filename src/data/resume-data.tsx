@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "In Crypto We Trust.",
   summary:
-    "I'm a blockchain researcher and smart contract developer with the focus on cryptocurrency. I have a strong background in computer science and cryptography, and I'm passionate about building decentralized applications and contributing to the open-source community. I'm a lifelong learner, and always looking for new challenges and opportunities to grow.",
+     "I'm a blockchain researcher and smart contract developer for Solana and EVM chains. I have a strong background in computer science and cryptography, and I believe in the future of decentralized finance. BTC HODL!",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
   personalWebsiteUrl: "https://www.zlog.in/",
   contact: {
@@ -49,7 +49,7 @@ export const RESUME_DATA = {
         name: "X",
         url: "https://x.com/zlog_in",
         icon: XIcon,
-      },
+      }
     ],
   },
   education: [
@@ -76,12 +76,12 @@ export const RESUME_DATA = {
     {
       company: "Orderly Network",
       link: "https://orderly.network/",
-      badges: ["Remote"],
+      badges: ["Remote", "Onsite"],
       title: "Blockchain Researcher & Smart Contract Developer",
       logo: OrderlyLogo,
       start: "Nov. 2022",
       end: "Present",
-      description: "Research on EVM tech stack, and develop smart contracts for DeFi protocols.",    
+      description: "Research on blockchain tech stack, and develop smart contracts for DeFi protocols.",    
     },
     {
       company: "Poly Network",
@@ -94,17 +94,46 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "Solidity, EVM",
-    "Go, Rust",
-    "Hardhat, Foundry",
-    "Ethersjs, Web3js",
-    "OpenZeppelin, Gnosis Safe",
+    "EVM Stack, Solana Stack",
+    "Solidity, Rust, JS/TS",
+    "Anchor, Hardhat, Foundry",
+    "Web3js, Ethersjs",
+    "Squads, OpenZeppelin, Gnosis Safe",
     "Truffle, Chai",
     "JavaScript, TypeScript",
-    "React/Next.js/Remix",
     "Node.js",
   ],
   projects: [
+    {
+      title: "ORDER Token",
+      techStack: [
+        "Solidity + Rust",
+        "Hardhat + Anchor",
+        "Layerzero OFT Protocol",
+      ],
+      description: "The ORDER token in native ERC20 on Ethereum and its OFT version on Solana and EVM chains (Arbtirum, Optimism, Base and Orderly).",
+      logo: ConsultlyLogo,
+      link: {
+        label: "ORDER Token",
+        href: "https://github.com/OrderlyNetwork/oft-token",
+      },
+    },
+    {
+      title: "Solana Vault",
+      techStack: [
+        "Rust",
+        "Anchor",
+        "Solana",
+        "Solana/Web3js",
+        "Layerzero OFT Protocol",
+      ],
+      description: "A vault program to guard the user's assets on Solana chain without custodian and connected with Orderly chain through Layerzero Endpoint program.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Solana Vault",
+        href: "https://github.com/OrderlyNetwork/solana-vault",
+      },
+    },
     {
       title: "Set Safe",
       techStack: [
