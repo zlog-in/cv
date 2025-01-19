@@ -55,7 +55,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Karlsruhe Institute of Technology",
-      degree: "Master's Degree in Computer Science",
+      degree: "Master's Degree in Computer Science, focus on Cryptography",
       start: "Oct. 2018",
       end: "Oct. 2022",
     },
