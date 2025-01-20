@@ -85,7 +85,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Poly Network",
-      link: "https://poly.network/",
+      link: "https://x.com/polynetwork2",
       badges: ["Onsite", "Remote"],
       title: "Blockchain Research Intern",
       start: "Dez. 2020",
