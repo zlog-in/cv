@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   location: "Karlsruhe, Germany, CET",
   locationLink: "https://www.google.com/maps/place/Karlsruhe",
   about:
-    "In Crypto We Trust.",
+    "In Crypto We Trust. 0x4a8259771887fa2C374ba506D853d2181Da0D7f5",
   summary:
      "I'm a blockchain researcher and smart contract developer for Solana and EVM chains. I have a strong background in computer science and cryptography, and I believe in the future of decentralized finance. BTC HODL!",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
