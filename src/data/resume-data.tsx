@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "In Crypto We Trust. 0x4a8259771887fa2C374ba506D853d2181Da0D7f5",
   summary:
-     "I'm a blockchain researcher and smart contract developer for Solana and EVM chains. I have a strong background in computer science and cryptography, and I believe in the future of decentralized finance. BTC HODL!",
+    "I'm a blockchain researcher and smart contract developer for Solana and EVM chains. I have a strong background in computer science and cryptography, and I believe in the future of decentralized finance. BTC HODL!",
   avatarUrl: "https://avatars.githubusercontent.com/zlog-in",
   personalWebsiteUrl: "https://www.zlog.in/",
   contact: {
@@ -81,7 +81,7 @@ export const RESUME_DATA = {
       logo: OrderlyLogo,
       start: "Nov. 2022",
       end: "Present",
-      description: "Research on blockchain tech stack, and develop smart contracts for DeFi protocols.",    
+      description: "Research on blockchain tech stack, and develop smart contracts for DeFi protocols.",
     },
     {
       company: "Poly Network",
@@ -136,6 +136,22 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Solana Proxy",
+      techStack: [
+        "Rust",
+        "Anchor",
+        "Solana",
+        "Solana/Web3js",
+        "Layerzero Protocol",
+      ],
+      description: "A proxy program for Solana users to stake ORDER token and earn rewards.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Solana Proxy",
+        href: "https://github.com/OrderlyNetwork/solana-proxy",
+      },
+    },
+    {
       title: "Set Safe",
       techStack: [
         "Shell",
@@ -151,5 +167,5 @@ export const RESUME_DATA = {
       },
     },
   ],
-  
+
 } as const;
