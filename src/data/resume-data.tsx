@@ -74,13 +74,22 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Bitget Exchange",
+      link: "https://www.bitget.com/",
+      badges: ["Remote", "Onsite"],
+      title: "Crypto Safeguarding Officer",
+      start: "Mar. 2026",
+      end: "Present",
+      description: "Build safeguarding framework for crypto assets to comply with the EU MiCA regulations.",    
+    },
+    {
       company: "Orderly Network",
       link: "https://orderly.network/",
       badges: ["Remote", "Onsite"],
       title: "Blockchain Researcher & Smart Contract Developer",
       logo: OrderlyLogo,
       start: "Nov. 2022",
-      end: "Present",
+      end: "Mar. 2026",
       description: "Research on blockchain tech stack, and develop smart contracts for DeFi protocols.",    
     },
     {
